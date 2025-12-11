@@ -8,3 +8,9 @@ A microcantilever with a coating of polystyrene (PS) changes mass when exposed t
 
 <<What the code does>>
 Based on the geometry of the cantilever, we can model its resonant frequency due to a sample of radiation dose.
+
+<<Two methods>>
+1.  Uniformly distributed film
+2.  Film determined just at the tip of the cantilever
+
+Uniformly distributed better because of higher sensitivity. 
