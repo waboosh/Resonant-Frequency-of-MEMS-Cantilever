@@ -13,5 +13,4 @@ Two Ways to do the same thing:
 1.  Uniformly distributed film
 2.  Film determined just at the tip of the cantilever
 
-
-Uniformly distributed better because of higher sensitivity. 
+The InitialModeling.m file is for the uniform application of the PS layer, and the PointMassModeling is for PS deposited at the tip.
